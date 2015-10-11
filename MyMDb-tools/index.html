@@ -27,8 +27,26 @@
         </ul>
       </header>
       <section>
-        <h3>
-<a id="mymdb-tools" class="anchor" href="#mymdb-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>MyMDb tools</h3>
+        <h2>
+<a id="bookmarklet" class="anchor" href="#bookmarklet" aria-hidden="true"><span class="octicon octicon-link"></span></a>IMDb-to-MyMDb-bookmarklet</h2>
+		<div>
+		<div class="arrow-box" style="float: right; height: auto; overflow:hidden; padding: 0 0 0 10px; /*border-left: 1px dotted #252525;*/">
+			<div class="arrow">
+				<div class="arrow-text">
+					<p>Drag it to toolbar!</p>
+				</div>
+			</div>
+			<div class="myButton" style="float: right;">
+				<a href="javascript:var movietitle = document.title;
+ var movietitle = movietitle.replace(/"/g, "");
+ var movietitle = movietitle.slice(0,movietitle.lastIndexOf("("));
+ location.href='http://meta.protonotarios.eu/wiki/index.php?title=Special:FormEdit/Movie/'
+  +encodeURIComponent(movietitle);")>IMDb to MyMDb</a>
+			</div>
+		</div>
+		<p>This is a JavaScript bookmarklet that allows the quick adding of a movie while browsing it on IMDb. When pressed on an IMDb page, it redirects to a MyMDb new page form with name same as the movie. User may enter more details and save the page.</p>
+		<p>Drag & drop the green button on the right to your browser's bookmarks toolbar.</p>
+		</div>
       </section>
     </div>
     <footer>
