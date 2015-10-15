@@ -1,59 +1,60 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>MyMDb-tools by Protonotarios</title>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<title>MyMDb-tools by Protonotarios</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="stylesheets/styles.css">
+	<link rel="stylesheet" href="stylesheets/github-dark.css">
+	<script src="javascripts/scale.fix.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>MyMDb-tools</h1>
-        <p>A collection of external tools for MyMDb</p>
-        <p class="view"><a href="https://github.com/Protonotarios/MyMDb-tools">View the Project on GitHub <small>Protonotarios/MyMDb-tools</small></a></p>
-        <ul>
-          <li><a href="https://github.com/Protonotarios/MyMDb-tools/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/Protonotarios/MyMDb-tools/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/Protonotarios/MyMDb-tools">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h2>
-<a id="bookmarklet" class="anchor" href="#bookmarklet" aria-hidden="true"><span class="octicon octicon-link"></span></a>IMDb-to-MyMDb-bookmarklet</h2>
-		<div>
-		<div class="arrow-box" style="float: right; height: auto; overflow:hidden; padding: 0 0 0 10px; /*border-left: 1px dotted #252525;*/">
-			<div class="arrow">
-				<div class="arrow-text">
-					<p>Drag me to toolbar!</p>
-				</div>
-			</div>
-			<div class="myButton" style="float: right;">
-				<a href="javascript:var movietitle = document.title;
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div class="wrapper">
+		<header>
+			<h1>MyMDb-tools</h1>
+			<p>A collection of external tools for MyMDb</p>
+			<p class="view"><a href="https://github.com/Protonotarios/MyMDb-tools">View the Project on GitHub <small>Protonotarios/MyMDb-tools</small></a></p>
+			<ul>
+				<li><a href="https://github.com/Protonotarios/MyMDb-tools/zipball/master">Download <strong>ZIP File</strong></a></li>
+				<li><a href="https://github.com/Protonotarios/MyMDb-tools/tarball/master">Download <strong>TAR Ball</strong></a></li>
+				<li><a href="https://github.com/Protonotarios/MyMDb-tools">View On <strong>GitHub</strong></a></li>
+			</ul>
+		</header>
+		<section>
+			<h2><a id="bookmarklet" class="anchor" href="#bookmarklet" aria-hidden="true"><span class="octicon octicon-link"></span></a>IMDb-to-MyMDb-bookmarklet</h2>
+			<div>
+				<div class="arrow-box" style="float: right; height: auto; overflow:hidden; padding: 0 0 0 10px; /*border-left: 1px dotted #252525;*/">
+					<div class="arrow">
+						<div class="arrow-text">
+							<p>Drag me to toolbar!</p>
+						</div>
+					</div>
+					<div class="myButton" style="float: right;">
+						<a href="javascript:var movietitle = document.title;
  var movietitle = movietitle.replace(/"/g, "");
  var movietitle = movietitle.slice(0,movietitle.lastIndexOf("("));
  location.href='http://meta.protonotarios.eu/wiki/index.php?title=Special:FormEdit/Movie/'
   +encodeURIComponent(movietitle);")>IMDb to MyMDb</a>
+					</div>
+				</div>
+				<p>This is a JavaScript bookmarklet that allows the quick adding of a movie while browsing it on IMDb. When pressed on an IMDb page, it redirects to a MyMDb new page form with name same as the movie. User may enter more details and save the page.</p>
+				<p>Drag & drop the green button on the right to your browser's bookmarks toolbar.</p>
 			</div>
-		</div>
-		<p>This is a JavaScript bookmarklet that allows the quick adding of a movie while browsing it on IMDb. When pressed on an IMDb page, it redirects to a MyMDb new page form with name same as the movie. User may enter more details and save the page.</p>
-		<p>Drag & drop the green button on the right to your browser's bookmarks toolbar.</p>
-		</div>
-      </section>
-    </div>
-    <footer>
-      <p>Project maintained by <a href="https://github.com/Protonotarios">Protonotarios</a></p>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> | modified by <a href="https://github.com/Protonotarios">Protonotarios</a></p>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
-  </body>
+			<h2><a id="scraper" class="anchor" href="#scraper" aria-hidden="true"><span class="octicon octicon-link"></span></a>MyMDb-series-scraper</h2>
+			<p>This is a python 2.7 script that paired with <a href="https://www.mediawiki.org/wiki/Manual:Pywikibot" target="_blank">pywikibot</a></a> allows the bulk creation of all episode pages of a series.</p>
+		</section>
+	</div>
+	<footer>
+		<p>Project maintained by <a href="https://github.com/Protonotarios">Protonotarios</a></p>
+		<p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> | modified by <a href="https://github.com/Protonotarios">Protonotarios</a></p>
+	</footer>
+	<!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+</body>
 </html>
