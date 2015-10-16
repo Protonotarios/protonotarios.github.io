@@ -1,8 +1,16 @@
-﻿# MyMDb-tools
-A collection of external tools for MyMDb
+# Καλωσήλθατε
+Αυτό το site είναι φτιαγμένο με το MDwiki, το απλούστερο λογισμικό ιστοσελίδων που υπάρχει στον κόσμο!
+Όλο κι όλα το site είναι ένα αρχείο `index.html` το οποίο απλά το αντιγράφετε στο server σας. Οι σελίδες είναι αρχεία απλού κειμένου με κατάλληξη `.md` αντί `.txt` που δεν θέλουν καμία γνώση προγραμματισμού.
+Για να προσθέσετε σελίδες απλά προσθέστε νέα αρχεία με κατάλληξη `.md`.
+Έχω βάλει εδώ μερικές ενδεικτικές σελίδες.
+Μπορείτε να τις επεξεργαστείτε, να τις μετονομάσετε ή να τις διαγράψετε ελεύθερα!
 
-## IMDb-to-MyMDb-bookmarklet
+Η παρούσα σελίδα είναι το αρχείο `index.md`. Επεξεργαστείτε το ελεύθερα αλλά μην το μετονομάσετε!
 
-This is a JavaScript bookmarklet that allows the quick adding of a movie while browsing it on IMDb. When pressed on an IMDb page, it redirects to a MyMDb new page form with name same as the movie. User may enter more details and save the page.
+## Επικεφαλίδες
+Φτιάχνονται με `##`
 
-Drag & drop the green button on the right to your browser's bookmarks toolbar.
+## Το κυρίως μενού
+Είναι απλά το αρχείο `navigation.md`. Επεξεργαστείτε το για να διαμορφώσετε τα μενού σας. Είναι απλό. Αλλά μόνο το μετονομάσετε! Αφήστε το `navigation.md`.
+
+Το καλό είναι ότι μπορείτε να επεξεργαστείτε όλο το site απευθείας στο GitHub και μάλιστα ότι οι σελίδες md έχουν και προεπισκόπηση!
