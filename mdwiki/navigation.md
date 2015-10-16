@@ -2,4 +2,4 @@
 
 [Home](index.md)
 [MyMDb](mymdb.md)
-[gimmick:theme](bootstrap)
+[gimmick:themechooser](Choose theme)
