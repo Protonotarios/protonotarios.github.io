@@ -1,5 +1,4 @@
-﻿# Pronotontarios.GitHub.io
+﻿# MyMDwiki
 
 [Home](index.md)
-[MyMDb](mymdb.md)
-[gimmick:themechooser](Choose theme)
+[MyMDb-tools](MyMDb-tools)
