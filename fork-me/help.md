@@ -95,6 +95,10 @@ Warning: Αν μετονομάζετε, διαγράφετε ή δημιουργ
 
 
 
-## Περισσότερη βοήθεια
-* Για πιο προχωρημένα πράγματα συμβουλευτείτε τη [βοήθεια του ΜDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md).
-* Δείτε επίσης [βοήθεια για τη σύνταξη Markdown](https://guides.github.com/features/mastering-markdown/)
+## Βοήθεια για προχωρημένες τροποποιήσεις
+* [Μενού με υπομενού](http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
+* [Έμφαση σύνταξης για γλώσσες προγραμματισμού](http://dynalon.github.io/mdwiki/#!quickstart.md#Syntax_highlighting)
+* [Σχήματα και διαγράμματα](http://dynalon.github.io/mdwiki/#!gimmicks.md#UML_Diagrams_via_yUML.me)
+* [Μαθηματικές εξισώσεις](http://dynalon.github.io/mdwiki/#!gimmicks.md#Math)
+* [Πίνακες και γραφικές παραστάσεις](http://dynalon.github.io/mdwiki/#!gimmicks.md#Chart)
+* [Τα πάντα για τη σύνταξη Markdown](https://guides.github.com/features/mastering-markdown/)
