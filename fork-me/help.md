@@ -95,7 +95,7 @@ Warning: Αν μετονομάζετε, διαγράφετε ή δημιουργ
 
 
 
-## Βοήθεια για προχωρημένες τροποποιήσεις
+## Εξωτερική βοήθεια για προχωρημένες τροποποιήσεις
 * [Μενού με υπομενού](http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
 * [Έμφαση σύνταξης για γλώσσες προγραμματισμού](http://dynalon.github.io/mdwiki/#!quickstart.md#Syntax_highlighting)
 * [Σχήματα και διαγράμματα](http://dynalon.github.io/mdwiki/#!gimmicks.md#UML_Diagrams_via_yUML.me)
