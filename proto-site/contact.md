@@ -4,7 +4,7 @@
 &#128222; &phone; 210XXXXXX
 &#128241; 69XXXXXXX
 &#128224; 210XXXXXX
-&#128231; &#9993; info@example.com
+&#9993; info@example.com
 
 &#127968; Πατησίων 1, Αθήνα
 
