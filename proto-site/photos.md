@@ -1,7 +1,7 @@
 # Φωτογραφίες
-![](https://c1.staticflickr.com/7/6064/6104224854_305517dd2e_b.jpg)
-
-<img src="https://github.com/favicon.ico" width="100">
+![](https://c1.staticflickr.com/9/8399/8895608491_28d9edd4c2.jpg)
+![](https://c1.staticflickr.com/7/6064/6104224854_305517dd2e.jpg)
+![](https://c1.staticflickr.com/9/8181/7909455540_c169594836.jpg)
 
 ## Βίντεο
 [](https://www.youtube.com/watch?v=oQVQ6wRDbT8)
