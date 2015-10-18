@@ -28,4 +28,4 @@
 
 Γιῶργος Σεφέρης
 
-> Πηγή εικόνας https://commons.wikimedia.org/wiki/File:Asamkirche_(8418263651).jpg
+Note: Πηγή εικόνας https://commons.wikimedia.org/wiki/File:Asamkirche_(8418263651).jpg
