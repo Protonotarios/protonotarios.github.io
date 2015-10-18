@@ -103,7 +103,7 @@ Hint: Φανταστείτε το issue *Εικόνες* σαν την αποθ�
 Επεξεργαστείτε το αρχείο και αλλάξτε τις.
 
 >Αρχείο `config.json`:
-```
+```json
 {
 "title": "proto-site",
 "additionalFooterText": "&copy; Το όνομά σας - Template <a href='https://github.com/Protonotarios/proto-site'>proto-site</a> by Protonotarios - ",
