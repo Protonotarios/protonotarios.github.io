@@ -2,6 +2,6 @@
 
 [Βιογραφικό](bio.md)
 [Φωτογραφίες](photos.md)
-[Διάφορα](misc.md)
+[Μπλογκ](blog.md)
 [Επικοινωνία](contact.md)
 [Βοήθεια για το site](help.md)
