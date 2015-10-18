@@ -12,5 +12,5 @@
   * [Πίνακες](advanced/tables.md)
   * [Γραφικές παραστάσεις](advanced/graph.md)
   * [Μαθηματικά](advanced/math.md)
-  * [Σχεδιαγράμματα](advanced/boxes.md)
+  * [Σχεδιαγράμματα](advanced/uml.md)
   * [Έμφαση σύνταξης](advanced/syntax.md)
