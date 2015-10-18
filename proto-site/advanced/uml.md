@@ -3,4 +3,4 @@
 [gimmick:yuml]( [Προσδιορισμός προβλήματος] -.->[Ανασκόπηση βιβλιογραφίας] )
 
 
-[gimmick:yuml (diag: 'usecase', scale: 150) ]( [Πελάτης]-`Θέλω έναν ιστότοπο´ )
+[gimmick:yuml (diag: 'usecase', scale: 150) ]( [Customer]-`Θέλω έναν ιστότοπο´ )
