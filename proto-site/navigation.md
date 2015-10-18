@@ -8,7 +8,9 @@
 - - - -
 [Προχωρημένα παραδείγματα]()
 
-  * [Μπλογκ](blog.md)
-  * [Πίνακες](tables.md)
-  * [Γραφικές παραστάσεις](graph.md)
-  * [Μαθηματικά](math.md)
+  * [Blog](advanced/blog.md)
+  * [Πίνακες](advanced/tables.md)
+  * [Γραφικές παραστάσεις](advanced/graph.md)
+  * [Μαθηματικά](advanced/math.md)
+  * [Σχεδιαγράμματα](advanced/boxes.md)
+  * [Έμφαση σύνταξης](advanced/syntax.md)
