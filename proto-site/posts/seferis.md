@@ -27,3 +27,5 @@
 στὴν καρδιὰ τοῦ ἑκατόφυλλου ρόδου.
 
 Γιῶργος Σεφέρης
+
+> Πηγή εικόνας https://commons.wikimedia.org/wiki/File:Asamkirche_(8418263651).jpg
