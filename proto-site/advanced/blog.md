@@ -1,9 +1,9 @@
 # Blog
 
-[preview:5](posts/blog-help.md)
+[preview:5](advanced/posts/blog-help.md)
 - - - -
-[preview:3](posts/naxos.md)
+[preview:3](advanced/posts/naxos.md)
 - - - -
-[preview:4](posts/seferis.md)
+[preview:4](advanced/posts/seferis.md)
 - - - -
 
