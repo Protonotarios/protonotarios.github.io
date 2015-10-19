@@ -8,7 +8,7 @@
 - - - -
 [Προχωρημένα παραδείγματα]()
 
-  * [Blog](advanced/blog.md)
+  * [Blog](blog.md)
   * [Πίνακες](advanced/tables.md)
   * [Γραφικές παραστάσεις](advanced/graph.md)
   * [Μαθηματικά](advanced/math.md)
