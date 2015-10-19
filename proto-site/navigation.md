@@ -14,3 +14,5 @@
   * [Μαθηματικά](advanced/math.md)
   * [Σχεδιαγράμματα](advanced/uml.md)
   * [Έμφαση σύνταξης](advanced/syntax.md)
+
+[gimmick:themechooser](Choose theme)
