@@ -10,7 +10,6 @@
 
   * [Blog](blog.md)
   * [Πίνακες](advanced/tables.md)
-  * [Γραφικές παραστάσεις](advanced/graphs.md)
   * [Μαθηματικά](advanced/math.md)
   * [Σχεδιαγράμματα](advanced/uml.md)
   * [Έμφαση σύνταξης](advanced/syntax.md)
