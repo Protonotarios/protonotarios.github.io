@@ -6,7 +6,7 @@
 - - - -
 [Βοήθεια για το site](help.md)
 - - - -
-[Π]()
+[Προχωρημένα παραδείγματα]()
 
   * [Blog](blog.md)
   * [Πίνακες](advanced/tables.md)
@@ -15,4 +15,4 @@
   * [Σχεδιαγράμματα](advanced/uml.md)
   * [Έμφαση σύνταξης](advanced/syntax.md)
 
-[gimmick:themechooser](Choose theme)
+
