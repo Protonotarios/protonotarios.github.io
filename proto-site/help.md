@@ -144,13 +144,24 @@ Warning: **Αυτή η ενέργεια είναι για προχωρημένο
 [Πατήστε εδώ και δώστε τη δική σας λέξη-κλειδί](https://www.google.gr/search?q=star&tbm=isch&tbs=isz:ex,iszw:16,iszh:16). Μετονομάστε την εικόνα σε `favicon` διατηρώντας την επέκτασή της.
 
 
-## Εξωτερική βοήθεια για προχωρημένες τροποποιήσεις
-* [Μενού με υπομενού](http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-* [Έμφαση σύνταξης για γλώσσες προγραμματισμού](http://dynalon.github.io/mdwiki/#!quickstart.md#Syntax_highlighting)
-* [Σχήματα και διαγράμματα](http://dynalon.github.io/mdwiki/#!gimmicks.md#UML_Diagrams_via_yUML.me)
-* [Μαθηματικές εξισώσεις](http://dynalon.github.io/mdwiki/#!gimmicks.md#Math)
-* [Πίνακες και γραφικές παραστάσεις](http://dynalon.github.io/mdwiki/#!gimmicks.md#Chart)
-* [Τα πάντα για τη σύνταξη Markdown](https://guides.github.com/features/mastering-markdown/)
+## Χρωματικοί συνδυασμοί site
+Μπορείτε να αλλάξετε τον χρωματικό συνδυασμό του site σας επιλέγοντας κάποιο από τα παρακάτω έτοιμα θέματα. 
+
+Αφού βρείτε ποιο σας αρέσει, πηγαίνετε στο αρχείο `navigation.md` και προσθέστε την εντολή `[gimmick:theme](ΌνομαΘέματος)` όπου `ΌνομαΘέματος` το όνομα του θέματος της επιλογής σας.
+
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/bootstrap.png "bootstrap - Το προεπιλεγμένο θέμα - Δεν χρειάζεται να το ορίσουμε")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/amelia.png "amelia")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cerulian.png "cerulian")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cosmo.png "cosmo")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cyborg.png "cyborg")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/flatly.png "flatly")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/journal.png "journal")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/readable.png "readable")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/simplex.png "simplex")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/slate.png "slate")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/spacelab.png "spacelab")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/united.png "united")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/yeti.png "yeti")
 
 
 
