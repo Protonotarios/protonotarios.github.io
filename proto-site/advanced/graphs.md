@@ -9,6 +9,8 @@
 | 5  | Sprint 5        | 6      | 42  | 8.4  | |
 | 6  | Sprint 6        | 9      | 51  | 8.5  | |
 
+
 [gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Line', width: '660px', height: '300px'})]()
+
 
 [gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Bar', width: '660px', height: '300px'})]()
