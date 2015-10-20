@@ -1,6 +1,7 @@
-# protonotarios.github.io
+# [git.io/proto](http://git.io/proto)
+Protonotarios GitHub pages
 
-## Sitemap of protonotarios.github.io
+## Sitemap
 
  * [Home page](http://protonotarios.github.io)
   * [MyMDb-tools](http://protonotarios.github.io/MyMDb-tools)
